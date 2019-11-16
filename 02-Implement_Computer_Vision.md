@@ -26,7 +26,7 @@ We will build a simple C# application that allows you to ingest pictures from yo
 
 ## Lab 2.2: Resources
 
-There are some directories in the [main](../) github repo folder:
+There are some directories in the main github repo folder:
 
 - **sample_images**: Some sample images to use in testing your implementation of Cognitive Services.
 
