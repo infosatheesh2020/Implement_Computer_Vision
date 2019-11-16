@@ -13,6 +13,7 @@ In addition, the second part (Day 2) focusses on creating an Azure intelligent c
 >- [Deploying a Docker based web application to Azure App Service](https://www.azuredevopslabs.com/labs/vstsextend/docker/)
 >- [Create a CI/CD pipeline for .NET with the Azure DevOps Project](https://www.azuredevopslabs.com/labs/vstsextend/azuredevopsprojectdotnet/)
 >- [Monitoring Application Performance with Application Insights](https://www.azuredevopslabs.com/labs/azuredevops/appinsights/)
+>- [Use Azure DevOps in VS Code - Optional](https://azuredevopslabs.com/labs/azuredevops/git/)
 
 >- [Introduction - Day 2](./01-Introduction.md)
 >- [Implement Computer Vision](./02-Implement_Computer_Vision.md)
