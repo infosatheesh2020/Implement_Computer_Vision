@@ -222,3 +222,7 @@ This lab was modified from this [Cognitive Services Tutorial](https://github.com
 -   [Services Directory](https://azure.microsoft.com/en-us/services/cognitive-services/directory/)
 -   [Portable Class Library (PCL)](https://docs.microsoft.com/en-us/dotnet/standard/cross-platform/cross-platform-development-with-the-portable-class-library)
 -   [Intelligent Kiosk sample application](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk/tree/master/Kiosk/ServiceHelpers)
+
+## Next Steps
+
+-   [Implement Azure Search](./03_AzureSearch.md)

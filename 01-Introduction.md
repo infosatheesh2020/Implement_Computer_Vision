@@ -130,4 +130,4 @@ While the first lab focuses on the [Computer Vision](https://www.microsoft.com/c
 
 ## Next Steps
 
--   [Implement Computer Vision](../02-Implement_Computer_Vision.md)
+-   [Implement Computer Vision](./02-Implement_Computer_Vision.md)
